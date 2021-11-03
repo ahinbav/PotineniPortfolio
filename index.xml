@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evaluating the Significance of CHD Risk Factors and Generating Images of CT Scans using ML on Abhinav Potineni</title>
+    <link>https://ahinbav.github.io/CHD-Research/</link>
+    <description>Recent content in Evaluating the Significance of CHD Risk Factors and Generating Images of CT Scans using ML on Abhinav Potineni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Apr 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://ahinbav.github.io/CHD-Research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coronary Heart Disease - Description and Issues With Reactive Measures</title>
+      <link>https://ahinbav.github.io/CHD-Research/meetings/studydesign/</link>
+      <pubDate>Sat, 10 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/meetings/studydesign/</guid>
+      <description>WHAT IS CHD?
+  Coronary Artery Disease or Coronary Heart Disease (CHD) is the leading cause of death in the US, with approximately 500,000 - 700,000 deaths annually.
+  Symptoms can range from no symptoms, to chest pain, to a heart attack.
+  People who are asymptomatic are unaware that they have CHD until they experience chest pain, a heart attack, or sudden cardiac arrest.
+  Variations in early signs and symptoms may make CHD harder to recognize:</description>
+    </item>
+    
+    <item>
+      <title>Progress Report 2: Machine Learning Courses</title>
+      <link>https://ahinbav.github.io/CHD-Research/goals/phase2/</link>
+      <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/goals/phase2/</guid>
+      <description>4/16 - Received completion certificate for “Mathematics for Machine Learning: Linear Algebra” course offered by the Imperial College London on Coursera
+5/2 - Received completion certificate for “Mathematics for Machine Learning: Multivariate Calculus” course offered by the Imperial College London on Coursera
+5/8 - Uploaded all Signature 3 materials into &amp;ldquo;Signature 3 Video and Paper&amp;rdquo; folder. The folder contained the Signature 3 Video, Junior Research Project Background Paper, FHS Dataset, Presentation Slideshow, and Rudimentary COde</description>
+    </item>
+    
+    <item>
+      <title>Why Machine Learning?</title>
+      <link>https://ahinbav.github.io/CHD-Research/meetings/sdesign/</link>
+      <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/meetings/sdesign/</guid>
+      <description>Before delving into the specific Machine Learning Applications, it&amp;rsquo;s also crucial to look into why a project would be needed in this area.
+As mentioned previously, the variations in early signs and symptoms make CHD harder to recognize. As such, it&amp;rsquo;s important to look into preventative rather than reactive measures. Looking into a patient&amp;rsquo;s risk factors and using them to determine whether they would be at risk of CHD in the next decade allows significant room for lifestyle changes.</description>
+    </item>
+    
+    <item>
+      <title>Meeting 2: Dr. Emelia Benjamin (Boston University Professor)</title>
+      <link>https://ahinbav.github.io/CHD-Research/post/nkvk/</link>
+      <pubDate>Fri, 12 Mar 2021 21:33:08 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/post/nkvk/</guid>
+      <description>Dr. Emelia J. Benjamin is a Professor of Medicine and Epidimiology at Boston University and a clinical cardiologist at Boston Medical Center. She has authored 650+ peer-reviewed publications that focus on genetics, epidimiology, and prognosis of a variety of cardiovascular conditions and markers.
+Her Info: https://www.bumc.bu.edu/busm/profile/emelia-benjamin/
+Recorded Meeting Link: https://youtu.be/9VY0MVqqVF0
+Transcript Link: https://docs.google.com/document/d/1HEyFEZ2ez7TYBYVaX6pbFfVMWVHmAGX_ZqzEp_BokE4/edit?usp=sharing
+Main Points Made:
+Limitations:
+ The Framingham study does not reflect the ethnic and racial diversity of our country today.</description>
+    </item>
+    
+    <item>
+      <title>Meeting 1: Mr. Sean Coady (NHLBI Deputy Branch Chief)</title>
+      <link>https://ahinbav.github.io/CHD-Research/post/scoady/</link>
+      <pubDate>Fri, 12 Mar 2021 11:16:08 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/post/scoady/</guid>
+      <description>Sean Coady is the Deputy Branch Chief at the National Heart, Lung, and Blood Institute.
+Research Papers through which I contacted him:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3673738/ https://pubmed.ncbi.nlm.nih.gov/23750335/
+His Info: https://jacksonheartstudy.umc.edu/directory/EmployeeDetail.aspx?EmployeeID=2620
+Recorded Meeting Link: https://youtu.be/Mf0c1xBMr68
+Transcript Link: https://docs.google.com/document/d/1ee5PYXvgsqlF6OSbukzEBwN-eSRsuIcLROSyv29PGmU/edit?usp=sharing
+Limitations/Potential Flaws:
+ Generalizability Issues: As we have seen with other risk prediction models, we tend to stratify by race. Relationships between particular risk factors and cardiovascular outcomes can differ in terms of how strong the absolute magnitude of the association of that risk factor is with the outcome.</description>
+    </item>
+    
+    <item>
+      <title>Meeting 3: Dr. Alvin Ang AND Harvard ML Researcher</title>
+      <link>https://ahinbav.github.io/CHD-Research/post/tfaa/</link>
+      <pubDate>Fri, 12 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/post/tfaa/</guid>
+      <description>Dr. Emelia J. Benjamin is a Professor of Medicine and Epidimiology at Boston University and a clinical cardiologist at Boston Medical Center. She has authored 650+ peer-reviewed publications that focus on genetics, epidimiology, and prognosis of a variety of cardiovascular conditions and markers.
+Her Info: https://www.bumc.bu.edu/busm/profile/emelia-benjamin/
+Recorded Meeting Link: https://youtu.be/9VY0MVqqVF0
+Transcript Link: https://docs.google.com/document/d/1HEyFEZ2ez7TYBYVaX6pbFfVMWVHmAGX_ZqzEp_BokE4/edit?usp=sharing
+Main Points Made:
+Limitations:
+ The Framingham study does not reflect the ethnic and racial diversity of our country today.</description>
+    </item>
+    
+    <item>
+      <title>Framingham Heart Study Dataset</title>
+      <link>https://ahinbav.github.io/CHD-Research/meetings/dataset/</link>
+      <pubDate>Tue, 09 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/meetings/dataset/</guid>
+      <description>DATASET USED
+ The dataset that I&amp;rsquo;m using is the Framingham Heart Study (FHS) Dataset from the NHLBI or BioLinCC website.
+For more information about how the data was collected, visit the &amp;ldquo;Framingham Heart Study Design&amp;rdquo; tab under Background
+Dataset Specifics:
+ Image of the .csv file (Open in New Tab)   Above is a portion of how the .csv file of the dataset looks like, with less important feature columns not included.</description>
+    </item>
+    
+    <item>
+      <title>Progress Report 1: Researcher Meetings</title>
+      <link>https://ahinbav.github.io/CHD-Research/goals/report-2/</link>
+      <pubDate>Tue, 09 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/goals/report-2/</guid>
+      <description>SUMMARY:
+To help get an understanding of whether or not my project was feasible as well as what steps I would need to take in order to get my data in a useable form, I reached out to researchers who were well situated with the dataset. I asked them questions regarding the potential limitations of the dataset with regards to ethnic background, ML models used on it in the past specifically regarding Cardiovascular Diseases, Limitations of Previous Research, and areas of interests for scientists currently working in the field.</description>
+    </item>
+    
+    <item>
+      <title>Framingham Heart Study Design</title>
+      <link>https://ahinbav.github.io/CHD-Research/meetings/fhsdesign/</link>
+      <pubDate>Wed, 10 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/meetings/fhsdesign/</guid>
+      <description>Study Design:
+In 1948, investigators sampled 2 out of every 3 adults aged 30-59 years in the town of Framingham, MA, yielding a sample of 5209 men and women. The data collected using X-Rays, electrocardiograms, and blood tests for Cholesterol and Glucose to detect abnormalities thought to play a role in CHD Development.
+Subsequent Data Collection:
+The success of the Original Cohort paved the way for further epidemiological research in preventive cardiology.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ahinbav.github.io/CHD-Research/contact/</link>
+      <pubDate>Tue, 02 Feb 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/contact/</guid>
+      <description>Have any questions, comments, or concerns about the research being conducted? Reach out to me by entering your name, email address, and a message below!
+Your Name Email Address An email address is required.  Message   Alternatively, use the links to my youtube and github pages in the top right corner for more information regarding my code and my research meetings.</description>
+    </item>
+    
+    <item>
+      <title>Phase I: Preprocessing and Risk Analysis Model Comparison</title>
+      <link>https://ahinbav.github.io/CHD-Research/projectsummary/phase1/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/projectsummary/phase1/</guid>
+      <description>Phase 1 &amp;amp; 2: Preprocessing and Risk Analysis Model Comparison
+The skills/information used in researching this project as well as the different steps were inspired by the meeting with the Harvard ML Researcher and the A-Z Machine Learning Courses over the course of the summer.
+The first step of my project is to normalize, replace null values, and standardize the values in the columns of my dataset. This is because the features have drastically different numbers, some of them are binary, others range from 1-4, and others are numerical values that can reach 500+.</description>
+    </item>
+    
+    <item>
+      <title>Phase II: Merging of Data Types and Image Generation using GANS</title>
+      <link>https://ahinbav.github.io/CHD-Research/projectsummary/phase2/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/projectsummary/phase2/</guid>
+      <description>Phase 3 and 4: Merging of Data Types and Image Generation using GANS
+The second phase of my project is merging data types. One of the researchers that I talked to suggested this. For a project regarding prediction of Parkinson’s disease, he used GANS or GANS: Generative Adversarial Networks to augment his dataset since he didn’t have enough images. Given a training set, this technique learns to generate new data with the same statistics as the training set.</description>
+    </item>
+    
+  </channel>
+</rss>

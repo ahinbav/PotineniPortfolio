@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Summary on Abhinav Potineni</title>
+    <link>https://ahinbav.github.io/CHD-Research/projectsummary/</link>
+    <description>Recent content in Project Summary on Abhinav Potineni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://ahinbav.github.io/CHD-Research/projectsummary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phase I: Preprocessing and Risk Analysis Model Comparison</title>
+      <link>https://ahinbav.github.io/CHD-Research/projectsummary/phase1/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/projectsummary/phase1/</guid>
+      <description>Phase 1 &amp;amp; 2: Preprocessing and Risk Analysis Model Comparison
+The skills/information used in researching this project as well as the different steps were inspired by the meeting with the Harvard ML Researcher and the A-Z Machine Learning Courses over the course of the summer.
+The first step of my project is to normalize, replace null values, and standardize the values in the columns of my dataset. This is because the features have drastically different numbers, some of them are binary, others range from 1-4, and others are numerical values that can reach 500+.</description>
+    </item>
+    
+    <item>
+      <title>Phase II: Merging of Data Types and Image Generation using GANS</title>
+      <link>https://ahinbav.github.io/CHD-Research/projectsummary/phase2/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/projectsummary/phase2/</guid>
+      <description>Phase 3 and 4: Merging of Data Types and Image Generation using GANS
+The second phase of my project is merging data types. One of the researchers that I talked to suggested this. For a project regarding prediction of Parkinson’s disease, he used GANS or GANS: Generative Adversarial Networks to augment his dataset since he didn’t have enough images. Given a training set, this technique learns to generate new data with the same statistics as the training set.</description>
+    </item>
+    
+  </channel>
+</rss>

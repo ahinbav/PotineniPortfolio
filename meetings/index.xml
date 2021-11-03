@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Background on Abhinav Potineni</title>
+    <link>https://ahinbav.github.io/CHD-Research/meetings/</link>
+    <description>Recent content in Background on Abhinav Potineni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jan 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://ahinbav.github.io/CHD-Research/meetings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coronary Heart Disease - Description and Issues With Reactive Measures</title>
+      <link>https://ahinbav.github.io/CHD-Research/meetings/studydesign/</link>
+      <pubDate>Sat, 10 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/meetings/studydesign/</guid>
+      <description>WHAT IS CHD?
+  Coronary Artery Disease or Coronary Heart Disease (CHD) is the leading cause of death in the US, with approximately 500,000 - 700,000 deaths annually.
+  Symptoms can range from no symptoms, to chest pain, to a heart attack.
+  People who are asymptomatic are unaware that they have CHD until they experience chest pain, a heart attack, or sudden cardiac arrest.
+  Variations in early signs and symptoms may make CHD harder to recognize:</description>
+    </item>
+    
+    <item>
+      <title>Why Machine Learning?</title>
+      <link>https://ahinbav.github.io/CHD-Research/meetings/sdesign/</link>
+      <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/meetings/sdesign/</guid>
+      <description>Before delving into the specific Machine Learning Applications, it&amp;rsquo;s also crucial to look into why a project would be needed in this area.
+As mentioned previously, the variations in early signs and symptoms make CHD harder to recognize. As such, it&amp;rsquo;s important to look into preventative rather than reactive measures. Looking into a patient&amp;rsquo;s risk factors and using them to determine whether they would be at risk of CHD in the next decade allows significant room for lifestyle changes.</description>
+    </item>
+    
+    <item>
+      <title>Framingham Heart Study Dataset</title>
+      <link>https://ahinbav.github.io/CHD-Research/meetings/dataset/</link>
+      <pubDate>Tue, 09 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/meetings/dataset/</guid>
+      <description>DATASET USED
+ The dataset that I&amp;rsquo;m using is the Framingham Heart Study (FHS) Dataset from the NHLBI or BioLinCC website.
+For more information about how the data was collected, visit the &amp;ldquo;Framingham Heart Study Design&amp;rdquo; tab under Background
+Dataset Specifics:
+ Image of the .csv file (Open in New Tab)   Above is a portion of how the .csv file of the dataset looks like, with less important feature columns not included.</description>
+    </item>
+    
+    <item>
+      <title>Framingham Heart Study Design</title>
+      <link>https://ahinbav.github.io/CHD-Research/meetings/fhsdesign/</link>
+      <pubDate>Wed, 10 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://ahinbav.github.io/CHD-Research/meetings/fhsdesign/</guid>
+      <description>Study Design:
+In 1948, investigators sampled 2 out of every 3 adults aged 30-59 years in the town of Framingham, MA, yielding a sample of 5209 men and women. The data collected using X-Rays, electrocardiograms, and blood tests for Cholesterol and Glucose to detect abnormalities thought to play a role in CHD Development.
+Subsequent Data Collection:
+The success of the Original Cohort paved the way for further epidemiological research in preventive cardiology.</description>
+    </item>
+    
+  </channel>
+</rss>
